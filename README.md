@@ -57,3 +57,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+### Modèle Conceptuel de Données (MCD)
+![MCD du projet](./docs/MCD.png)
+
+### Modèle Logique de Données (MLD)
+![MLD du projet](./docs/MLD.png)
